@@ -1,2 +1,2 @@
 # portfolio-in-html
-simle web page developed by using html .
+simple web page developed by using html .
